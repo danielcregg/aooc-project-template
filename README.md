@@ -43,7 +43,7 @@ Add a screenshot of the application architecture.
 ## JavaFX
 Discuss the GUI design used. Discuss why you chose this design and any features you thing make your application stands out.
 
-![alt text](resources/javaFX.gif "My App")
+![alt text](images/javaFX.gif "My App")
 
 ## Roadblocks and Unfinished Functionality
 Discuss the issues you faced with creating your application. Provide possible solutions to these issues. What would you have done differently if you had to do this again? What did you not get finished?
