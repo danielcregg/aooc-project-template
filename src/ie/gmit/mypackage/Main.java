@@ -12,7 +12,7 @@ public class Main {
     // This is the main method.
     public static void main(String[] args) {
         
-        // This statement print "Hello World" to the console.
+        // This statement prints "Hello World" to the console.
         System.out.println("Hello World!");
     
     } // End main method
