@@ -3,6 +3,7 @@
 **Title:** Items Application Manager<br>
 **Name:** Patrick Murphy<br>
 **Student ID:** G00123456<br>
+**Azure Labs Virtual Machine Password:** pinkDinosaurs<br>
 
 ## Application Function
 Discuss, in detail, what the application does. Add a screenshot image of the application in use (See example of image added below).
