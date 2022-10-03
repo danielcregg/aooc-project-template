@@ -12,9 +12,12 @@
     "files.exclude": {
         ".github": false, 
         ".devcontainer": false,
+        "**/*.class": true,
+        ".classpath": true,
         "bin": false,
         "docs": false,
-        ".gitignore": false,
-        ".vscode": false
+        ".gitignore": true,
+        ".vscode": false,
+        "**/*.gitpod*": true,
       }
 }
