@@ -5,7 +5,7 @@
  *  Prints "Hello World!" to console.
 *
  ******************************************************************************/
-package ie.gmit.mypackage;
+package ie.atu.mypackage;
 
 public class Main {  
 
