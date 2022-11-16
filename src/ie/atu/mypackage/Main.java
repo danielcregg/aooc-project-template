@@ -8,7 +8,6 @@
 package ie.atu.mypackage;
 
 public class Main {  
-
     // This is the main method.
     public static void main(String[] args) {
         
@@ -16,5 +15,4 @@ public class Main {
         System.out.println("Hello World!");
     
     } // End main method
-
 } // End Main class
