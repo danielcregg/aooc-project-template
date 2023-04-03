@@ -36,7 +36,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"vscjava.vscode-java-pack"
+				"vscjava.vscode-java-pack",
+				"DavidAnson.vscode-markdownlint"
 			],
 			"settings": { 
 				// Set the Java server launch mode to Standard
