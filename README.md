@@ -1,22 +1,26 @@
 # Final Project
 
-**Title:** Items Application Manager<br>
-**Name:** Patrick Murphy<br>
-**Student ID:** G00123456<br>
+**Title:** Items Application Manager  
+**Name:** Patrick Murphy  
+**Student ID:** G00123456  
 
 ## Application Function
+
 Discuss, in detail, what the application does. Add a screenshot image of the application in use (See example of image added below).
 
 ## Running the Application
+
 Provide step by step instructions on how to run your applicaiton. Are there any prerequisite softwares required?
 
-```
+```MARKDOWN
 List the instructions step by step
     1. Clone this repository to your desktop.
-    2. Open it with Eclipse
+    2. Open it with Eclipse.
+    3. Run it.
             :
             :
 ```
+
 ## Minimum Project Requirments
 
 Confirm and demonstrate how you have met all minimum project requirments:
@@ -36,19 +40,23 @@ Confirm and demonstrate how you have met all minimum project requirments:
 Discuss any application features or design elements that show you went above and beyone basic requirments.
 
 ## Application Architecture
+
 Discuss in detail how the application is structured. List all Classes. List their method and what they do. Discuss what structures are used to store data objects.
 
 Add a screenshot of the application architecture.
 
 ## JavaFX
+
 Discuss the GUI design used. Discuss why you chose this design and any features you thing make your application stands out.
 
 ![alt text](images/javaFX.gif "My App")
 
 ## Roadblocks and Unfinished Functionality
+
 Discuss the issues you faced with creating your application. Provide possible solutions to these issues. What would you have done differently if you had to do this again? What did you not get finished?
 
 ## Resources
+
 Provide links to resources used:
 
 * [Tutorialspoint](https://www.tutorialspoint.com/java/) - Java Tutorials site I found helpful
