@@ -6,7 +6,7 @@
 
 ## Application Function
 
-Discuss, in detail, what the application does. Add a screenshot image of the application in use (See example of image added below).
+Discuss, in detail, what the application does. Add a screenshot image of the application in use (See example of image added below). 
 
 ## Running the Application
 
