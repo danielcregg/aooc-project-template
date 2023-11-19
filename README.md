@@ -10,14 +10,14 @@ Discuss, in detail, what the application does. Add a screenshot image of the app
 
 ## Running the Application
 
-Provide step by step instructions on how to run your applicaiton. Are there any prerequisite softwares required?
+Provide step by step instructions on how to run your applicaiton. Are there any software installs required? 
 
 ```MARKDOWN
 List the instructions step by step
-    1. Clone this repository to your desktop.
-    2. Open it with Eclipse.
-    3. Run it.
-            :
+    1. Open the repository in codespaces
+    2. Install Extension Pack for Java
+    3. Open the Main class
+    4. Click on the run icon on the top right
             :
 ```
 
