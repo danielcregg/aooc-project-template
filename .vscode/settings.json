@@ -3,12 +3,8 @@
     "java.server.launchMode" : "Standard",
     "java.debug.settings.console": "integratedTerminal",
     "files.exclude": {
-        ".github": false, 
-        ".devcontainer": false,
-        "**/*.class": true,
-        "bin": false,
-        "docs": false,
-        ".gitignore": true,
+        ".devcontainer": true,
+        ".gitignore": false,
         ".vscode": false,
       }
 }
