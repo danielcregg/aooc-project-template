@@ -10,7 +10,7 @@ Discuss, in detail, what the application does. Add a screenshot image of the app
 
 ## Running the Application
 
-Provide step by step instructions on how to run your applicaiton. Are there any software installs required? 
+Provide step by step instructions on how to run your application. Are there any software installs required? 
 
 ```MARKDOWN
 List the instructions step by step
@@ -21,11 +21,11 @@ List the instructions step by step
             :
 ```
 
-## Minimum Project Requirments
+## Minimum Project Requirements
 
-Confirm and demonstrate how you have met all minimum project requirments:
+Confirm and demonstrate how you have met all minimum project requirements:
 
-* The project, including code and documentaion, will be fully contained in the provied Git Classroom repo.
+* The project, including code and documentation, will be fully contained in the provided Git Classroom repo.
 * The project must contain a working JavaFX GUI which manages items of your choice.
 * The GUI must at minimum provide access to all 7 methods implemented in the Student Manager App.
 * Methods = Load DB, Add Item, Delete Item, Find item by ID/Name, Show total items, Save to DB, Quit.
@@ -37,7 +37,7 @@ Confirm and demonstrate how you have met all minimum project requirments:
 
 ## Project Requirments above and beyond
 
-Discuss any application features or design elements that show you went above and beyone basic requirments.
+Discuss any application features or design elements that show you went above and beyond basic requirments.
 
 ## Application Architecture
 
