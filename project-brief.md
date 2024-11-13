@@ -1,12 +1,6 @@
-# Object Oriented Computing II - Final Project
+# Object Oriented Computing II - Project Assessment
 
-## Module
-Object Oriented Computing II
-
-## Assessment
-Final Project
-
-## Assignment Description
+## Project Overview
 
 For this project you are required to design and develop a JavaFX GUI (Graphical User Interface) application. The application must manage objects of the type you have chosen from the Final Project Object Choice List. The application will be like the Student Manager Application we developed in class but with improved design and extended functionality.
 
