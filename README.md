@@ -1,4 +1,4 @@
-# Final Project
+# OOC2 Project
 
 **Title:** Items Application Manager  
 **Name:** Patrick Murphy  
