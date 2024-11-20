@@ -27,23 +27,16 @@
 			"onAutoForward": "openPreview"
 		}
 	},
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "uname -a",
-
-	// Configure tool-specific properties.
-	// "customizations": {},
-
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	"remoteUser": "root",
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"vscjava.vscode-java-pack"
-			],
-			"settings": { 
-				// Set the Java server launch mode to Standard
-				"java.server.launchMode": "Standard"
-			}
+				"redhat.java",
+				"vscjava.vscode-java-debug",
+				"vscjava.vscode-java-dependency",
+				"visualstudioexptteam.vscodeintellicode"
+			]
 		}
 	}
 }
