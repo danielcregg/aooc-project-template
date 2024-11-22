@@ -37,6 +37,8 @@ The application must incorporate, at minimum, the following features:
 
 - Java collections (e.g., to create a structure to store objects)
 - Exception Handling
+- File IO
+- Use of the Stream API
 - Serialisation of Objects
 - JavaFX GUI
 
