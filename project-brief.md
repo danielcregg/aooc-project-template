@@ -29,20 +29,38 @@ To achieve a high grade:
 - Create an animated gif of you using your application and add it to your Readme.
 - Create an executable jar file that opens your application independently and include this in your GitHub repository.
 
-## Submission Process
-1. Create a 5-minute screen cast video of you demoing your app. Explain your code and point out any extras you added. Add this video to your GitHub repository. You can create a screencast using Microsoft Streams
-2. Your GitHub repository will stop accepting commits on the submission Due Date. Make sure you have committed your finished code before then by checking your repository on GitHub
-3. Download a copy of your final Git repository from the GitHub website
-4. Submit the zip file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day
-5. In the Moodle submission text box, include:
+# 📊 Project Submission Process
+You **must** folow this subission process carefully. If you miss any part, especially the screencast, you will be penalised.    
 
-**GitHub Link:** [Your repository URL]  
-**Screencast Link:** [Your screencast URL]
+### 1. Screencast Demonstration
+- 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream)
+- Give a brief code walkthrough highlghting places where you expended most of your effort
+- Demonstrate your app running and its operation  
+- Highlight any additional functionality you implemented
+- **MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME**. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
 
-## Example Projects
+### 2. Moodle Submission
+- [Download a copy of your final Git repository from the GitHub website.](https://youtube.com/shorts/4bDLccFjQyc?si=dWUDWoW4B_tnADty)
+- In the submission area on Moodle, where you will upoad your zipped project, you will see a text box in which you will be able to enter text (See sample below). Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
+- Upload this zip file under the submission link on Moodle. You can find the submission link under the Final Project section on the Moodle page.
+- Submit the zip file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day. 
 
-- Favourite Football players App. Add them a list. Remove them. Search for them
-- Car Garage App. Store list of cars. When fixed remove car
-- Pizza Shop Orders App. Add pizzas on order. Remove when delivered. Search
-- Shop Inventory system. Add items. Remove when sold. Search inventory
-- Stamp Collection List. Add and remove stamps. Store in file for safe keeping
+  #### Sample Textbox Input
+  <pre>
+  <b>Screencast Link:</b> https://atlantictu-my.sharepoint.com/:v:/g/personal/daniel_cregg_atu_ie/Ed9h1upB77VFuIm0ezGYj8MBlOaHCoiWUJkLUFqj0Z9OJQ?e=ua2JM1
+  <b>GitHub Link:</b> https://github.com/DanielCreggOrganization/ooc2-final-project-2021-annmurphy  
+  </pre>
+
+## ⚠️ Important Notes
+1. Only materials within this GitHub repository will be graded. (40% grade cap if missed)
+3. Insufficient commits may require a live demonstration (40% grade cap if missed)
+4. Late submissions incur a 10% penalty per day
+
+## ✅ Grading Rubric
+
+| Area | Poor<br>(0-39) | Fair<br>(40-49) | Good<br>(50-59) | Very Good<br>(60-69) | Excellent<br>(70-100) |
+|------|----------------|-----------------|-----------------|---------------------|---------------------|
+| **UI/UX** | • Basic template-like<br>• Minimal effort<br>• Poor navigation<br>• Inconsistent design | • Basic effort shown<br>• Meets minimums<br>• Navigation works<br>• Shows competency | • Consistent design<br>• Intuitive navigation<br>• Beyond basic requirements | • Bespoke elements<br>• Consistent design<br>• Fluid navigation<br>• Above requirements | • Professional finish<br>• Innovative design<br>• Flawless UX<br>• Cohesive elements<br>• Exceeds requirements |
+| **Technical** | • Inconsistent code<br>• Unfinished sections<br>• Poor formatting<br>• No comments | • Basic competence<br>• Minimal comments<br>• No new elements<br>• Meets minimums | • Good structure<br>• Clear comments<br>• Technical mastery | • Professional code<br>• Clean architecture<br>• Consistent style | • Excellence shown<br>• Advanced features<br>• Perfect structure |
+| **Docs** | • Basic README<br>• Few commits<br>• Poor submission | • Basic sections done<br>• Sporadic commits<br>• Meets minimums | • Good GitHub usage<br>• Detailed README<br>• Regular commits | • Bespoke content<br>• Clean repo<br>• Detailed docs | • Professional docs<br>• Rich media<br>• Perfect GitHub use<br>• Research depth |
+
