@@ -1,13 +1,11 @@
 # Object Oriented Computing II - Project Assessment
+For this project you are required to design and develop a JavaFX GUI (Graphical User Interface) application. The application must manage objects of the type you have chosen from the `Project Object Choice List`, which is available on the Moodle page. You will use an ArrayList to store and manage the objects.
 
-## Project Overview
-
-For this project you are required to design and develop a JavaFX GUI (Graphical User Interface) application. The application must manage objects of the type you have chosen from the `Project Object Choice List`.  
-
-## Minimum Project Requirements 
-
-- To develop this application, you **must** use codespaces. No other development set up will be acceptable.
-- Project development must be tracked on GitHub. Create your personal **ooc2-project-202X** repository now by clicking on this link: [YOUR PROJECT GITHUB REPO](https://classroom.github.com/a/BVMTlMfS). This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application.
+## ⚡ Minimum Project Requirments
+- You must use the Project GitHub Repository provided to you on the Moodle page. No other development set up will be acceptable. This link to create your repository can be found under the `Project Assessment` section on Moodle. You need to click on the link to create your repository. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application. Please note, no materials outside of your GitHub repository are gradable. Using another GitHub repository or not using GitHub at all for this project will incur a penalty of 60%. If you do not understand what is meant by this, then email me before you begin your project.
+- This application must be developed using GitHub Codespaces.
+- Project development must be tracked on GitHub via regular commits. Your GitHub repository must have at minimum two commits per week, if not I may contact you for a live project demonstration. The project will be capped at 40% if you fail to attend this meeting.    
+- The README file should contain clear instructions for compiling, deploying, and running the application. It should also briefly outline the nature of the project and detail the set of features it contains. All sections of the README template must be filled out and add more sections if you please. 
 
 Please note:
 - **No materials outside of your GitHub repository are gradable**
