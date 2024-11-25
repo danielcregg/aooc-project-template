@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-For this project you are required to design and develop a JavaFX GUI (Graphical User Interface) application. The application must manage objects of the type you have chosen from the Final Project Object Choice List. The application will be like the Student Manager Application we developed in class but with improved design and extended functionality.
+For this project you are required to design and develop a JavaFX GUI (Graphical User Interface) application. The application must manage objects of the type you have chosen from the Project Object Choice List. The application will be like the Student Manager Application we developed in class but with improved design and extended functionality.
 
 ## Minimum Project Requirements 
 
 To develop this application, you **must** use codespaces. No other development set up will be acceptable.
 
-Project development must be tracked on GitHub. Create your personal **ooc2-final-project-202X** repository now by clicking on this link: https://classroom.github.com/a/cmRMTiYA. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application.
+Project development must be tracked on GitHub. Create your personal **ooc2-project-202X** repository now by clicking on this link: https://classroom.github.com/a/cmRMTiYA. This repository will contain all documentation, application code and any resources (e.g., input and output files, images etc) used by your application.
 
 Please note:
 - **No materials outside of your GitHub repository are gradable**
