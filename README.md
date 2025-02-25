@@ -1,4 +1,4 @@
-# OOC2 Project
+# Advanced Object Oriented Computing Project
 
 **Title:** Items Application Manager  
 **Name:** Patrick Murphy  
