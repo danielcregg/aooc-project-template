@@ -33,17 +33,18 @@ To achieve a high grade:
 You **must** folow this subission process carefully. If you miss any part, especially the screencast, you will be penalised.    
 
 ### 1. Screencast Demonstration
-- 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream), YouTube or any tool of your choosing.  
+- 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream), YouTube or any tool of your choosing.
+- Download the screencast video file. This will be uploaded to the moodle submission area along with your code.
 - Demonstrate your app running and its operation
 - Give a brief code walkthrough highlghting places where you expended most of your effort
 - Highlight any additional functionality you implemented
-- **MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME**. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
+- **MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME**. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me. It is your responsibiliy to make sure I can see the screencast. If I can not your grade will be capped at 40%.
 
 ### 2. Moodle Submission
 - [Download a copy of your final Git repository from the GitHub website.](https://youtube.com/shorts/4bDLccFjQyc?si=dWUDWoW4B_tnADty)
 - In the submission area on Moodle, where you will upoad your zipped project, you will see a text box in which you will be able to enter text (See sample below). Put the URL link to your project GitHub repository and the URL link to your MS Streams screencast recording you created.
-- Upload this zip file under the submission link on Moodle. You can find the submission link under the Final Project section on the Moodle page.
-- Submit the zip file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day. 
+- Upload this zip file of your code and your screencast video under the submission link on Moodle. You can find the submission link under the Final Project section on the Moodle page.
+- Submit the file to Moodle before the due date. The due date can be found by clicking on the submission link on Moodle. Late submissions will incur a 10% penalty per day. 
 
   #### Sample Textbox Input
   <pre>
