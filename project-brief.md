@@ -18,9 +18,10 @@ The application must incorporate, at minimum, the following features:
 - JavaFX GUI
 
 ## 📝 Coding Standards
-- Your code must compile
-- Consistent code formatting
-- Code commentary is essential. Comment every class and method at minimum. 
+- Your code must compile.
+- Consistent code formatting.
+- Code commentary is essential. Comment every class and method at minimum.
+- Your code must contain at minimum 3 classes, a class for the item you chose, a class to manage that item and a Main class that contains the JavaFX GUI code for your application.
 
 ## ⭐ Enhanced Features
 To achieve a high grade:
