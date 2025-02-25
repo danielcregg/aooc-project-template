@@ -33,9 +33,9 @@ To achieve a high grade:
 You **must** folow this subission process carefully. If you miss any part, especially the screencast, you will be penalised.    
 
 ### 1. Screencast Demonstration
-- 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream)
+- 5-minute screen recording using [MS Stream](https://www.microsoft365.com/launch/stream), YouTube or any tool of your choosing.  
+- Demonstrate your app running and its operation
 - Give a brief code walkthrough highlghting places where you expended most of your effort
-- Demonstrate your app running and its operation  
 - Highlight any additional functionality you implemented
 - **MAKE SURE YOUR SCREENCAST IS ACCESSABLE BY ME**. CHECK STREAMS/OneDrive PERMISSIONS and make sure it can be seen by me.
 
