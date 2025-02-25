@@ -4,7 +4,7 @@
         {
             "label": "Open Main.java",
             "command": "code",
-            "args": ["src/ie/atu/testpackage/Main.java"],
+            "args": ["src/ie/atu/mypackage/Main.java"],
             "runOptions": {
                 "runOn": "folderOpen"
             }
