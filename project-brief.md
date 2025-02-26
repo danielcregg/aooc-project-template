@@ -1,4 +1,19 @@
-# Object Oriented Computing II - Project Assessment
+# AOOC - Project Assessment
+
+## Agenda
+1. [Introduction](#-introduction)
+2. [Minimum Project Requirements](#-minimum-project-requirments)
+3. [Minimum Feature Requirements](#-minimum-feature-requirements)
+4. [Coding Standards](#-coding-standards)
+5. [Enhanced Features](#-enhanced-features)
+6. [Project Submission Process](#-project-submission-process)
+    5.1. [Screencast Demonstration](#1-screencast-demonstration)
+    5.2. [Moodle Submission](#2-moodle-submission)
+7. [Important Notes](#-important-notes)
+8. [Grading Rubric](#-grading-rubric)
+
+## ⚡ Introduction
+
 For this project you are required to design and develop a JavaFX GUI (Graphical User Interface) application. The application must manage objects of the type you have chosen from the `Project Object Choice List`, which is available on the Moodle page. You will use an ArrayList to store and manage the objects.
 
 ## ⚡ Minimum Project Requirments
