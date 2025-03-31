@@ -1,14 +1,13 @@
 # AOOC - Project Assessment
 
 ## Agenda
+## Agenda
 1. [Introduction](#1-introduction)
 2. [Minimum Project Requirements](#2-minimum-project-requirements)
 3. [Minimum Feature Requirements](#3-minimum-feature-requirements)
 4. [Coding Standards](#4-coding-standards)
 5. [Enhanced Features](#5-enhanced-features)
 6. [Project Submission Process](#6-project-submission-process)
-   6.1. [Screencast Demonstration](#61-screencast-demonstration)
-   6.2. [Moodle Submission](#62-moodle-submission)
 7. [Important Notes](#7-important-notes)
 8. [Grading Rubric](#8-grading-rubric)
 
