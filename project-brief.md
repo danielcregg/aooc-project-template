@@ -33,6 +33,19 @@ The application must incorporate, at minimum, the following features:
 - Serialisation of Objects to a file
 - JavaFX GUI defined in a Main class
 
+```mermaid
+graph TD
+    A[JavaFX Project] --> B[src]
+    B --> C[ie.atu.javafx]
+    C --> D[Main.java]
+    C --> E[myObject.java]
+    C --> F[myObjectManager.java]
+    A --> G[resources]
+    G --> H[styles.css]
+    G --> I[myObjects.ser]
+    G --> J[myObjects.csv]
+```
+
 ## 4. Coding Standards
 - Your code must compile.
 - Consistent code formatting.
