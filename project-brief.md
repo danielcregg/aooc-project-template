@@ -1,7 +1,6 @@
 # AOOC - Project Assessment
 
 ## Agenda
-## Agenda
 1. [Introduction](#1-introduction)
 2. [Minimum Project Requirements](#2-minimum-project-requirements)
 3. [Minimum Feature Requirements](#3-minimum-feature-requirements)
