@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
-	 	"ghcr.io/devcontainers/features/desktop-lite:1.0.8": {
+	 	"ghcr.io/devcontainers/features/desktop-lite:1.2.5": {
 	 		"version": "latest",
 	 		"noVncVersion": "1.2.0",
 			"password": "codespaces",
